@@ -22,7 +22,7 @@ You need **Node.js** installed on your machine. [Download it here](https://nodej
 ### Steps
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/rahgozar94725/MTProto-Checker.git](https://github.com/rahgozar94725/MTProto-Checker.git)
+    git clone https://github.com/rahgozar94725/MTProto-Checker.git
     cd MTProto-Checker
     ```
 
