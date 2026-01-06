@@ -22,8 +22,8 @@ You need **Node.js** installed on your machine. [Download it here](https://nodej
 ### Steps
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/mtproto-checker.git](https://github.com/YOUR_USERNAME/mtproto-checker.git)
-    cd mtproto-checker
+    git clone [https://github.com/rahgozar94725/MTProto-Checker.git](https://github.com/rahgozar94725/MTProto-Checker.git)
+    cd MTProto-Checker
     ```
 
 2.  Install dependencies:

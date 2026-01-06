@@ -21,8 +21,8 @@
 ### مراحل نصب
 1.  پروژه را دانلود کنید یا کلون بگیرید:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/mtproto-checker.git](https://github.com/YOUR_USERNAME/mtproto-checker.git)
-    cd mtproto-checker
+    git clone [https://github.com/rahgozar94725/MTProto-Checker.git](https://github.com/rahgozar94725/MTProto-Checker.git)
+    cd MTProto-Checker
     ```
 
 2.  پکیج‌های لازم را نصب کنید:
