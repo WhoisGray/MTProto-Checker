@@ -5,7 +5,7 @@ const { TelegramClient, Api } = require('telegram');
 const { StringSession } = require('telegram/sessions');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const API_ID = 6;
 const API_HASH = 'eb06d4abfb49dc3eeb1aeb98ae0f581e';
